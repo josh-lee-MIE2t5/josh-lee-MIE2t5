@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&background=C3080000&width=600&lines=An+Engineer...;Bringing+ideas+to+reality.)](https://git.io/typing-svg)
 
-- 👋 Hi there I'm Josh Lee I am a new grad from the University of Toronto where I maajored in Industrial Engineering with a minor in AI. My interests include fullstack development and machine learning. My repos includes anything I have coded for learning and expanding my knowledge/skillset.
+- 👋 Hi there I'm Josh Lee I'm new graduate from the University of Toronto where I maajored in Industrial Engineering with a minor in AI. My interests include fullstack development and machine learning. My repos includes anything I have coded for learning and expanding my knowledge/skillset.
 
 ### Things In My Brain: 
 |Typescript|Firebase|Google Cloud|NextJS|JavaScript|React.js|Heroku|Git
